@@ -8,9 +8,10 @@ For this challenge I had to create a script that loops through all the stocks fo
   - The total stock volume of the stock
 
 
-I used the .Activate function to apply the code to all worksheets simultaniously
+I used the .Activate function to apply the code to all worksheets simultaniously, my tutor Limei Hu reccomended that to streamline the coding
 
-I added the Len(cell) function to the color condtionals to avoid the blank cells being filled
+I added the Len(cell) function to the color condtionals to avoid the blank cells being filled which I found from a google search
 
 I found the Max and Min functions quickly on google, but needed some help to find the 
-Match function which I used to apply the appropriate ticker symbol
+Match function which I used to apply the appropriate ticker symbol. Saad Khan, from askBCS helped me to identify  the correct code to apply here.
+
